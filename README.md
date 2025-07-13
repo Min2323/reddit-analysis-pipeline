@@ -1,2 +1,14 @@
 # reddit-analysis-pipeline
 BERTopic with GPT annotation and sentimental analysis on reddit post and comments
+
+## Project Overview
+
+**Reddit Analysis Pipeline** provides a reproducible workflow for turning Reddit posts into quantitative and qualitative insights. Originally demonstrated on discussions surrounding GLP‑1 receptor agonists, the pipeline is easily repurposed for any subreddit or keyword set.
+
+## Key Features
+
+- BERTopic topic modeling with customizable embeddings
+- GPT annotation for intuitive topic names
+- Fast descriptive statistics for number of users, subreddits and keywords by post and comments 
+- Scalable sentiment analysis (e.g., CardiffNLP XLM‑RoBERTa model)
+ 
