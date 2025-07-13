@@ -14,4 +14,4 @@ BERTopic with GPT annotation and sentimental analysis on reddit post and comment
 
 ## Project topic provided in this repo:
 - Analysis on GLP-1 Receptor Agnoist(eg. Wegovy, Zepbound, Mounjaro etc) related topics and its sentiments
-
+- .env file which contains users API might be required if users wants to use language models like GPT
