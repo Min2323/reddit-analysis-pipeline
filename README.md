@@ -12,4 +12,5 @@ BERTopic with GPT annotation and sentimental analysis on reddit post and comment
 - Fast descriptive statistics for number of users, subreddits and keywords by post and comments 
 - Scalable sentiment analysis (e.g., CardiffNLP XLM‑RoBERTa model)
 
-## Example provided in this project is GLP-1 agnoist related topics and its sentiments
+## project topic provided
+- analysis on GLP-1 agnoist related topics and its sentiments
