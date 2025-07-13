@@ -13,4 +13,5 @@ BERTopic with GPT annotation and sentimental analysis on reddit post and comment
 - Scalable sentiment analysis (e.g., CardiffNLP XLM‑RoBERTa model)
 
 ## Project topic provided in this repo:
-- Analysis on GLP-1 Receptor Agnoist related topics and its sentiments
+- Analysis on GLP-1 Receptor Agnoist(eg. Wegovy, Zepbound, Mounjaro etc) related topics and its sentiments
+
